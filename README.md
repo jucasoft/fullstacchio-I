@@ -7,15 +7,6 @@ Ogni esercizio dovrà essere committato su GitHub.
 
 L'IDE da utilizzare è intellij Ultimate Trial.
 
-Il periodo di prova di Intellij avvolte scade in modo imprevisto, in questo caso riavviate il pc e utilizzare un .bat con il seguente codice:
-    
-```
-cd "C:%HOMEPATH%\.IntelliJIdea*\config"
-rmdir "eval" /s /q
-del "options\other.xml"
-reg delete "HKEY_CURRENT_USER\Software\JavaSoft\Prefs\jetbrains\idea" /f
-```
-
 In caso di difficolta nello svolgimento dei tutorial aprite una Issue in GitHub, indicando più informazioni possibili:
 
 # Le basi  
