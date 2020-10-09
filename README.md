@@ -1,13 +1,14 @@
 # Introduzione
-Con il passare del tempo, trovare il tempo per riuscire a studiare nuove tecnologie è sempre meno, l'idea di questo corso è di darvi un percorso guidato costituito dai migliori tutorial trovati in rete, un strada sicura, che vi porterà ad attraversare i concetti fondamentali della programmazione Fullstacchia (Angular).
-
+Con il passare del tempo, trovare il tempo per riuscire a studiare nuove tecnologie è sempre meno, l'idea di questo corso è di darti un percorso guidato costituito dai migliori tutorial trovati in rete, un strada sicura, che vi porterà ad attraversare i concetti fondamentali della programmazione Fullstacchia (Angular).
 
 # Linee guida
-Ogni esercizio dovrà essere committato su GitHub.
+- Ogni esercizio dovrà essere committato su GitHub.
+- L'IDE da utilizzare è intellij Ultimate Trial.
+- In caso di difficolta nello svolgimento dei tutorial aprite una Issue in GitHub, indicando più informazioni possibili.
 
-L'IDE da utilizzare è intellij Ultimate Trial.
-
-In caso di difficolta nello svolgimento dei tutorial aprite una Issue in GitHub, indicando più informazioni possibili.
+# Presupposti
+Si presume che tu abbia familiarita con alcuni argomenti:
+(https://developer.mozilla.org/it/docs/Learn/HTML/Introduction_to_HTML)[Html]
 
 # Le basi  
 ## 1) Getting started https://angular.io/guide/setup-local
