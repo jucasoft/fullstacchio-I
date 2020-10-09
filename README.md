@@ -7,7 +7,7 @@ Ogni esercizio dovrà essere committato su GitHub.
 
 L'IDE da utilizzare è intellij Ultimate Trial.
 
-In caso di difficolta nello svolgimento dei tutorial aprite una Issue in GitHub, indicando più informazioni possibili:
+In caso di difficolta nello svolgimento dei tutorial aprite una Issue in GitHub, indicando più informazioni possibili.
 
 # Le basi  
 ## 1) Getting started https://angular.io/guide/setup-local
